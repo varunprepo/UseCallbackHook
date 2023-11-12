@@ -1,6 +1,6 @@
 # React: UseCallbackHook
 
-![](https://github.com/varunprepo/UseCallbackHook/blob/main/useCallbackPage.GIF)
+![til](https://github.com/varunprepo/UseCallbackHook/blob/main/useCallbackPage.GIF)
 
 The application has 5 components:
 
