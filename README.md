@@ -1,6 +1,6 @@
 # React: UseCallbackHook
 
-![til](UseCallbackHook/useCallbackPage.GIF)
+![til](./UseCallbackHook/useCallbackPage.GIF)
 <img src="UseCallbackHook/useCallbackPage.GIF" alt="No Image to display" />
 
 The application has 5 components:
